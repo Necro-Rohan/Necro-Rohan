@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rohangupta5671@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [#](./Latest_Resume.pdf)
 
 - ⚡ Fun fact **Still waiting for my while(learning) loop to end😅.**
 
