@@ -24,7 +24,13 @@
 <a href="https://linkedin.com/in/rohan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/necrorohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="necrorohan" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_gupta_c53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_gupta_c53" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hungrydevourer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hungrydevourer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hungrydevourer" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codechef/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/codechef/2E3346">
+    <img alt="hungrydevourer" height="30" width="40" src="https://cdn.simpleicons.org/codechef/2E3346">
+  </picture>
+</a>
 <a href="https://codeforces.com/profile/necro_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="necro_rohan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/necro-rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="necro-rohan" height="30" width="40" /></a>
 </p>
