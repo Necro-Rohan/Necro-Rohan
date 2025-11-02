@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&pause=1000&color=9D00FF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Rohan!;FullStack+Developer+%7C+Problem+Solver;Building+cool+stuff+with+Code;Currently+Learning+Node.js+%26+Beyond;Always+iterating+on+my+skills" alt="Typing SVG"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necro-rohan&label=Profile%20views&color=0e75b6&style=flat" alt="necro-rohan" /> </p>
 
