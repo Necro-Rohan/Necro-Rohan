@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nnrz.vercel.app/](https://portfolio-nnrz.vercel.app/)
 
-- 💬 Ask me about **Python, HTML, CSS Javascript, SQL, React, Node.js, Express, Prisma**
+- 💬 Ask me about **Python, HTML, CSS, Javascript, SQL, React, Node.js, Express, Prisma**
 
 - 📫 How to reach me **rohangupta5671@gmail.com**
   
