@@ -14,7 +14,7 @@ I am particularly interested in combining AI capabilities with web systems to cr
 
 ---
 
-## Selected Projects
+## My Projects
 
 ### SAAGAA — Enterprise Salon Management Platform
 
