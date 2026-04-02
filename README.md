@@ -48,6 +48,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necro-rohan&show_icons=true&locale=en" alt="necro-rohan" /></p> -->
 
+<p align="center">
+  <a href="https://holopin.io/@hungrydevourer">
+    <img 
+      src="https://holopin.me/hungrydevourer" 
+      alt="Rohan Kumar's Holopin Badge Board" 
+      width="800"
+    />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=necro-rohan&" alt="necro-rohan" /></p>
 
 
