@@ -98,7 +98,6 @@ I am particularly interested in combining AI capabilities with web systems to cr
 
 ## Connect
 
-* GitHub: [https://github.com/Necro-Rohan](https://github.com/Necro-Rohan)
 * LinkedIn: [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar-2b2ab9326/)
 * Portfolio: [More About Me](https://portfolio-nnrz.vercel.app/)
 * Email: [rohan.kumar@adypu.edu.in](mailto:rohan.kumar@adypu.edu.in)
