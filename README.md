@@ -2,8 +2,6 @@
 
 Building real-world full-stack applications with a focus on backend systems, scalability, and practical AI integrations.
 
-B.Tech (AI & ML), Newton School of Technology, Pune · CGPA: 9.34
-
 ---
 
 ## What I Do
@@ -16,11 +14,9 @@ I am particularly interested in combining AI capabilities with web systems to cr
 
 ## My Projects
 
-#### [SAAGAA — Enterprise Salon Management Platform](https://saagaa-salon.vercel.app/)
-
-#### [Website Studio — pSEO Blog Platform](https://website-studio.onrender.com/)
-  
-#### [ReqFlow — API Testing Platform](https://reqflow-abn7.onrender.com/)
+### [SAAGAA — Enterprise Salon Management Platform](https://saagaa-salon.vercel.app/)
+### [Website Studio — pSEO Blog Platform](https://website-studio.onrender.com/)
+### [ReqFlow — API Testing Platform](https://reqflow-abn7.onrender.com/)
 
 ---
 
