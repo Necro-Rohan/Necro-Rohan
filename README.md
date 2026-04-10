@@ -16,27 +16,12 @@ I am particularly interested in combining AI capabilities with web systems to cr
 
 ## My Projects
 
-### SAAGAA — Enterprise Salon Management Platform
+#### [SAAGAA — Enterprise Salon Management Platform](https://saagaa-salon.vercel.app/)
 
-* Full-stack MERN platform for appointment scheduling, staff management, and inventory tracking
-* Designed backend architecture with scheduling logic to prevent double bookings
-* Implemented secure authentication using JWT and HttpOnly cookies
-* Built real-time system behavior with dynamic slot updates and automated notifications
-* [Explore the Live Application](https://saagaa-salon.vercel.app/)
-
-### Website Studio — pSEO Blog Platform
-
-* SEO-focused blogging platform designed for programmatic content generation and publishing
-* Built to support scalable page creation targeting long-tail search queries
-* Focused on performance, structured content, and search visibility
-* [Explore the Live Application](https://website-studio.onrender.com/)
+#### [Website Studio — pSEO Blog Platform](https://website-studio.onrender.com/)
   
-### ReqFlow — API Testing Platform
+#### [ReqFlow — API Testing Platform](https://reqflow-abn7.onrender.com/)
 
-* Browser-based API testing tool for sending requests and analyzing responses
-* Tracks latency, status codes, and maintains request history
-* Implemented authentication and deployed as a unified system on Render
-* [Explore the Live Application](https://reqflow-abn7.onrender.com/)
 ---
 
 
